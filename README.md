@@ -10,7 +10,7 @@
 
 ### **📣 상세 이력은 여기로!**
 
-- Notion 링크 추가 예정
+- [Notion 링크](https://www.notion.so/Jay-8a39c0c8de52402b8963ed735291d669)
   <br>
   <br>
 
