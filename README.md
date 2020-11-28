@@ -1,6 +1,22 @@
-### Hi there 👋
+### Hi there. I'm Jay👋
 
-### Being a developer who wants to work with you
+<br/>
+
+### Being a developer who wants to work together.
+
+<br/>
+
+### Simple history
+
+- I started working from January 2019.
+- Now I work at WISEnut.
+  <br/>
+
+### I’m currently studying
+
+- Go Lang
+- ELK
+- Docker / K8S
 
 <!--
 **jayhooney/jayhooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
