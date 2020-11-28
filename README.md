@@ -4,7 +4,7 @@
 
 ### **📣 간단한 이력**
 
-- [ 2019-01 ~ Now ] at **WISEnut** as **Data Engineer**
+- [ 2019-01 ~ Now ] at **[WISEnut](https://www.wisenut.com/)** as **Data Engineer**
   <br/>
   <br/>
 
