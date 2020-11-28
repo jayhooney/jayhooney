@@ -1,4 +1,4 @@
-### **👋 안녕하세요! 이재훈입니다! 👋 <br> 같이 일하고 싶은 개발자가 되는것이 목표입니다 !**
+### **👋 안녕하세요! 같이 일하고 싶은 개발자가 되는 중인 이재훈입니다! 👋 **
 
 <br/>
 
@@ -16,12 +16,12 @@
 
 ### **이런것들을 다뤄봤어요 !**
 
-| 영역       | 기술                                                            |
-| :--------- | :-------------------------------------------------------------- |
-| `LANGUAGE` | JavaScript, **TypeScript**, Java                                |
-| `BACK-END` | **Node.js**,<br> AWS EC2/SQS/S3                                 |
-| `DATABASE` | RDBMS : MySQL, MariaDB <br> NoSQL : ELK                         |
-| `DETAIL`   | Puppeteer를 활용한 웹 크롤링 <br> Express.js를 사용한 서버 개발 |
+| 영역       | 기술                                                                                                     |
+| :--------- | :------------------------------------------------------------------------------------------------------- |
+| `LANGUAGE` | JavaScript, **TypeScript**, Java                                                                         |
+| `BACK-END` | **Node.js**,<br> AWS EC2/SQS/S3                                                                          |
+| `DATABASE` | RDBMS : MySQL, MariaDB <br> NoSQL : ELK                                                                  |
+| `DETAIL`   | Puppeteer를 활용한 웹 크롤링 <br> Express.js를 사용한 서버 개발 <br> 데이터 수집-분석-시각화 자동화 처리 |
 
 <br/>
 <br/>
