@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/jayhooney/jayhooney/jayhooney.svg)](http://hits.dwyl.com/jayhooney/jayhooney/jayhooney)
+[![HitCount](http://hits.dwyl.com/jayhooney/jayhooney.svg)](http://hits.dwyl.com/jayhooney/jayhooney)
 
 ### 👋 **안녕하세요! 성장과 재미 둘 다 원하는 개발자 이재훈입니다!** 👋
 
