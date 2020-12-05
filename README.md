@@ -30,6 +30,15 @@
   <br/>
   <br/>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jayhooney)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayhooney)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+WAKA 연동 후 테스트 필요함.
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jayhooney)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
 **jayhooney/jayhooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
