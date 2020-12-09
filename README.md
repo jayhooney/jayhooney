@@ -7,8 +7,9 @@
 ### **💼 간단한 이력**
 
 - [ 2019-01 ~ Now ] at **[WISEnut](https://www.wisenut.com/)** as **Data Engineer**
-  <br/>
-  <br/>
+
+<br/>
+ <br/>
 
 ### **💻 이런것들을 다뤄봤습니다 !**
 
@@ -28,8 +29,9 @@
 - ELK
 - Docker / K8S
 - NestJS
-  <br/>
-  <br/>
+
+<br/>
+<br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jayhooney)](https://github.com/anuraghazra/github-readme-stats)
 
