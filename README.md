@@ -2,6 +2,8 @@
 
 ### 👋 **안녕하세요! 성장,재미 지향형 개발자 이재훈입니다!** 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayhooney)](https://github.com/anuraghazra/github-readme-stats)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jayhooney)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 
 ### **💼 간단한 이력**
@@ -9,7 +11,7 @@
 - [ 2019-01 ~ Now ] at **[WISEnut](https://www.wisenut.com/)** as **Data Engineer**
 
 <br/>
- <br/>
+<br/>
 
 ### **💻 이런것들을 다뤄봤습니다 !**
 
@@ -32,10 +34,6 @@
 
 <br/>
 <br/>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jayhooney)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayhooney)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 WAKA 연동 후 테스트 필요함.
