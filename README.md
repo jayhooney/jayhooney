@@ -8,32 +8,13 @@
 
 ### **💼 간단한 이력**
 
-- [ 2019-01 ~ Now ] at **[WISEnut](https://www.wisenut.com/)** as **Data Engineer**
+- [ 2019-01 ~ 2021-02 ] at **[WISEnut](https://www.wisenut.com/)** as **Data Engineer**
+- [ 2021-02 ~ NOW] at **[AIM](https://www.getaim.co)** as **backend developer**
 
 <br/>
 <br/>
 
-### **💻 이런것들을 다뤄봤습니다 !**
 
-| 영역       | 기술                                                                                                     |
-| :--------- | :------------------------------------------------------------------------------------------------------- |
-| `LANGUAGE` | JavaScript, **TypeScript**, Java                                                                         |
-| `BACK-END` | **Node.js**,<br> AWS EC2/SQS/S3                                                                          |
-| `DATABASE` | RDBMS : MySQL, MariaDB <br> NoSQL : ELK                                                                  |
-| `DETAIL`   | Puppeteer를 활용한 웹 크롤링 <br> Express.js를 사용한 서버 개발 <br> 데이터 수집-분석-시각화 자동화 처리 |
-
-<br/>
-<br/>
-
-### **🔥요즘 공부하는 것들🔥**
-
-- Go Lang
-- ELK
-- Docker / K8S
-- NestJS
-
-<br/>
-<br/>
 
 <!--
 WAKA 연동 후 테스트 필요함.
