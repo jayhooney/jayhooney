@@ -3,8 +3,11 @@
 <br/>
 
 ### **Career** 💼
-- [ 2019-01 ~ 2021-02 ] at **[WISEnut](https://www.wisenut.com/)** as **Data Engineer**
-- [ 2021-02 ~ NOW] at **[AIM](https://www.getaim.co)** as **backend developer**
+|||
+|:---|:---|
+|2021-02 ~ NOW|**at [AIM](https://www.getaim.co)** as **Backend developer**|
+|2019-01 ~ 2021-02|at **[WISEnut](https://www.wisenut.com/)** as **Data Engineer**|
+
 
 ### **Skill** 🛠
 |항목|보유기술|
