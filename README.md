@@ -2,14 +2,14 @@
 
 <br/>
 
-## **Career** 💼
+## 💼 **Career** 
 |기간|근무지 및 직책|
 |:---|:---|
 |2021-02 ~ NOW|**at [AIM](https://www.getaim.co)** as **Backend developer**|
 |2019-01 ~ 2021-02|at **[WISEnut](https://www.wisenut.com/)** as **Data Engineer**|
 
 
-## **Skill** 🛠
+## 🛠 **Skill** 
 |항목|보유기술|
 |:---|:---|
 |Language|Javascript, Typescript</br> Java</br> Python|
@@ -18,8 +18,8 @@
 |Database|MySQL, MariaDB|
 |Collaboration|Git, Github, Gitlab|
 
-## **Blog** ✏️
+## ✏️ **Blog** 
 [우당탕탕 개발기록](https://jayhooney.github.io/)
 
-## **Resume** 📄 
+## 📄 **Resume** 
 [Notion](https://walnut-river-a84.notion.site/Jay-8a39c0c8de52402b8963ed735291d669)
