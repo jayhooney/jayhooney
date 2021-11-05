@@ -5,7 +5,8 @@
 ## 💼 **Career** 
 |기간|근무지 및 직책|
 |:---|:---|
-|2021-02 ~ NOW|**at [AIM](https://www.getaim.co)** as **Backend developer**|
+|2021-11 ~ NOW||
+|2021-02 ~ 2021-10|**at [AIM](https://www.getaim.co)** as **Backend developer**|
 |2019-01 ~ 2021-02|at **[WISEnut](https://www.wisenut.com/)** as **Data Engineer**|
 
 
