@@ -13,7 +13,7 @@
 ## 🛠 **Skill** 
 |항목|보유기술|
 |:---|:---|
-|Language|Javascript, Typescript</br> Java</br> Python</br> Ruby|
+|Language|Javascript, Typescript</br> Java</br> Python</br> Ruby</br> Kotlin|
 |Back-end| NodeJS, ExpressJS, NestJS</br>  Spring boot, MyBatis</br> Django, ORM</br> Ruby on Rails|
 |Infra|AWS</br> Jenkins</br> Docker|
 |Database|MySQL, MariaDB|
